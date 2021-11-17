@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e7842a30-b729-62d2-b40f-d23739b108c2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "War & American Society",
+  "course_description": "Writing in the wake of the Civil War, poet Walt Whitman insisted that \"the real war will never get in the books.\" Throughout American history, the experience of war has fundamentally shaped the ways that Americans think about themselves, their fellow Americans, and the meanings of national citizenship. War has also posed challenges of representation, both for those who fought as well as those who did not. This subject examines how Americans have told the stories of modern war in history, literature, and popular culture, and interprets them in terms of changing ideas about American national identity.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.223",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
